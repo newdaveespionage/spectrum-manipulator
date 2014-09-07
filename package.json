@@ -1,0 +1,27 @@
+{
+  "name": "spectrum-manipulator",
+  "version": "0.0.0",
+  "description": "Manipulate video using audio spectrum ranges",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/newdaveespionage/spectrum-manipulator.git"
+  },
+  "keywords": [
+    "spectrum",
+    "manipulator",
+    "video",
+    "html5",
+    "canvas",
+    "audo"
+  ],
+  "author": "David Cox-Espenlaub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newdaveespionage/spectrum-manipulator/issues"
+  },
+  "homepage": "https://github.com/newdaveespionage/spectrum-manipulator"
+}
